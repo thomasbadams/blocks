@@ -1,0 +1,6 @@
+5 5
+HVVVV
+H.HVV
+T.VVV
+V..HH
+V....
